@@ -1,31 +1,20 @@
 html {
     text-align: center;
+    /*margin: 10px;*/
 }
 
-span {
-    color: #6CB840;
-}
-
-main {
+nav a {
+    color: black;
+    text-decoration: none;
     display: flex;
-    flex-direction: column;
-}
-
-.header1 {
-    display: flex;
-    flex-direction: row;
     justify-content: space-evenly;
+    padding: 10px;
 }
 
-.section1>img {
-    float: left;
+.first {
+    display: flex;
 }
 
-h2 {
-    text-align: center;
-}
-
-.deals {
-    background-color: #C9ECB5;
+.second {
     display: flex;
 }
