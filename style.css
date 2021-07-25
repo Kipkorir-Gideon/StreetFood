@@ -272,3 +272,19 @@ footer {
     display: flex;
     justify-content: space-between;
 }
+
+.circle-container {
+    width: auto;
+    height: auto;
+    border: dashed 1px;
+    border-radius: 50%;
+    justify-content: center;
+}
+
+.header2 {
+display: flex;
+margin-bottom: 20px;
+margin-top: 20px;
+height: auto;
+justify-content: space-around;
+}
