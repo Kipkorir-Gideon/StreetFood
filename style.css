@@ -81,3 +81,29 @@ main {
     padding-bottom: 8px;
     border-radius: 50px 50px 50px 50px;
 }
+
+.section1 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.section {
+    max-width: 400px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.section>h1 {
+    color: #EAAB1B;
+}
+
+.section1>img {
+    float: left;
+    max-width: 500px;
+    width: auto;
+    height: auto;
+    margin-right: 0px;
+}
