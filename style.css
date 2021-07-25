@@ -224,3 +224,16 @@ h2 {
         height: auto;
     }
 }*/
+
+.section4 {
+    background-color: #fcf2dd;
+    height: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    max-width: 400px;
+    align-items: center;
+}
