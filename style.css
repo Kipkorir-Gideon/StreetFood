@@ -207,3 +207,20 @@ h2 {
 .deals2>h2 {
     text-align: left;
 }
+
+@media only screen and (min-width: 480px){
+    .deals>div>img{
+        width: 250px;
+        height: auto; 
+        padding: 0px;
+    }
+}
+
+/*@media only screen and (min-width: 480px){
+    .burger1,.burger2>div {
+        margin: 20px;
+        width: auto; 
+        padding: 0px;
+        height: auto;
+    }
+}*/
