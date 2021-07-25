@@ -1,3 +1,31 @@
-header {
+html {
+    text-align: center;
+}
+
+span {
+    color: #6CB840;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.header1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.section1>img {
+    float: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+.deals {
     background-color: #C9ECB5;
+    display: flex;
 }
