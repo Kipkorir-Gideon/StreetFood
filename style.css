@@ -169,3 +169,41 @@ main {
 h2 {
     text-align: center;
 }
+
+.section3 {
+    height: auto;
+    background-color: #C9ECB5;
+}
+
+.deals {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.deals>div>img {
+    max-width: 250px;
+    margin-left: 10px;
+    float: left;
+    margin-top: -110px;
+} 
+
+.deals1>div>img {
+    max-width: 250px;
+    margin-left: 10px;
+    float: left;
+    margin-top: -150px;
+    margin-left: 70px;
+}
+
+.deals2 {
+    max-width: 400px;
+}
+
+.deals2>h1 {
+    color: #6CB840;
+}
+
+.deals2>h2 {
+    text-align: left;
+}
